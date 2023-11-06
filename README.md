@@ -7,7 +7,7 @@ For that purpose Node.js and MongoDB is being used.
 Make sure you have Docker (also Docker-Compose) and Node.js installed. 
 
 ## Setup 
-Build the environment by executing `docker-compose build` in the root directory of this project. 
+Build the environment by executing `docker-compose build` in the root directory of this project. Use `docker-compose up` to run the project. 
 
 ## API 
 `/api/v1/stations` allows to perform a `GET`, `POST` and `DELETE`. 
